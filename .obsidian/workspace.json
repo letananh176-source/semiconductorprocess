@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "28c502f51cda713e",
+        "id": "b0e442364c8ee993",
         "type": "tabs",
         "children": [
           {
-            "id": "9d7ab0250b202bb1",
+            "id": "946eb7956f0cdcba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Semiconductor Process.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Semiconductor Process"
             }
           }
         ]
@@ -90,8 +94,9 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semiconductor Process.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Semiconductor Process"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Semiconductor Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Semiconductor Process"
             }
           },
           {
@@ -150,15 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Semiconductor Process.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Semiconductor Process"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,12 +184,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d7ab0250b202bb1",
+  "active": "946eb7956f0cdcba",
   "lastOpenFiles": [
-    "Semiconductor Process.md",
-    "10. Metallization - kim loại hoá.md",
+    "images/Pasted image 20260326183848.png",
     "9. Thin film deposition - Lắng đọng màng mỏng.md",
+    "Semiconductor Process.md",
+    "images/Pasted image 20260326183156.png",
+    "images/Pasted image 20260326183144.png",
+    "images/Pasted image 20260326182930.png",
+    "images/Pasted image 20260326182158.png",
     "8.  Doping - pha tạp.md",
+    "images/Pasted image 20260326172046.png",
+    "images/Pasted image 20260326171954.png",
+    "images/Pasted image 20260326171934.png",
+    "images/Pasted image 20260326171921.png",
+    "6. Developme. t - hiển thị hình ảnh.md",
+    "images/Pasted image 20260326171808.png",
+    "images/Pasted image 20260326165405.png",
+    "images",
+    "Untitled.canvas",
+    "Untitled.md",
+    "10. Metallization - kim loại hoá.md",
     "7. Etching - Khắc.md",
     "6. Development - hiển thị hình ảnh.md",
     "5. Photolithography - quang khắc.md",
@@ -198,13 +221,7 @@
     "Kéo tinh thể silicon.md",
     "README.md",
     "Oxi hoá (Oxidation).md",
-    "image/Pasted image 20260323222945.png",
-    "image/lothachanh.png",
-    "image/Pasted image 20260323221856.png",
-    "image/Pasted image 20260323221820.png",
-    "image/Pasted image 20260323221145.png",
-    "image",
-    "Welcome.md",
-    "image/Pasted image 20260323222642.png"
+    "images",
+    "Welcome.md"
   ]
 }
