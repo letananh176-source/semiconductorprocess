@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0e442364c8ee993",
+        "id": "804021178f57264b",
         "type": "tabs",
         "children": [
           {
-            "id": "946eb7956f0cdcba",
+            "id": "56827286ecaf2743",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 437.5
   },
   "right": {
     "id": "f4ce62652aacc20d",
@@ -184,26 +184,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "946eb7956f0cdcba",
+  "active": "56827286ecaf2743",
   "lastOpenFiles": [
+    "fix_git_links.py",
+    "1. Kéo tinh thể Silicon.md",
+    "images/Pasted image 20260326223414.png",
+    "Semiconductor Process.md",
+    "images/Pasted image 20260326223411.png",
+    "images/Pasted image 20260326223406.png",
+    "8.  Doping - pha tạp.md",
+    "images/Pasted image 20260326223327.png",
+    "Untitled.md",
     "images/Pasted image 20260326183848.png",
     "9. Thin film deposition - Lắng đọng màng mỏng.md",
-    "Semiconductor Process.md",
     "images/Pasted image 20260326183156.png",
     "images/Pasted image 20260326183144.png",
     "images/Pasted image 20260326182930.png",
     "images/Pasted image 20260326182158.png",
-    "8.  Doping - pha tạp.md",
     "images/Pasted image 20260326172046.png",
-    "images/Pasted image 20260326171954.png",
-    "images/Pasted image 20260326171934.png",
-    "images/Pasted image 20260326171921.png",
     "6. Developme. t - hiển thị hình ảnh.md",
-    "images/Pasted image 20260326171808.png",
-    "images/Pasted image 20260326165405.png",
     "images",
     "Untitled.canvas",
-    "Untitled.md",
     "10. Metallization - kim loại hoá.md",
     "7. Etching - Khắc.md",
     "6. Development - hiển thị hình ảnh.md",
@@ -211,7 +212,6 @@
     "4. Photoresist Coating - Phủ quang trở.md",
     "3. Oxidation - oxi hoá.md",
     "2. Cắt lát Silicon.md",
-    "1. Kéo tinh thể Silicon.md",
     "Semiconductor process.md",
     "Development - Hiển thị hình ảnh.md",
     "Photolithography -Quang Khắc.md",
